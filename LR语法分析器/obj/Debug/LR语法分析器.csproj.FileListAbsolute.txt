@@ -1,0 +1,20 @@
+G:\Cin's Codes\编译原理\LR语法分析器\LR语法分析器\bin\Debug\LR语法分析器.exe.config
+G:\Cin's Codes\编译原理\LR语法分析器\LR语法分析器\bin\Debug\LR语法分析器.exe
+G:\Cin's Codes\编译原理\LR语法分析器\LR语法分析器\bin\Debug\LR语法分析器.pdb
+G:\Cin's Codes\编译原理\LR语法分析器\LR语法分析器\obj\Debug\LR语法分析器.csprojResolveAssemblyReference.cache
+G:\Cin's Codes\编译原理\LR语法分析器\LR语法分析器\obj\Debug\LR语法分析器.Form1.resources
+G:\Cin's Codes\编译原理\LR语法分析器\LR语法分析器\obj\Debug\LR语法分析器.Properties.Resources.resources
+G:\Cin's Codes\编译原理\LR语法分析器\LR语法分析器\obj\Debug\LR语法分析器.csproj.GenerateResource.Cache
+G:\Cin's Codes\编译原理\LR语法分析器\LR语法分析器\obj\Debug\LR语法分析器.csproj.CoreCompileInputs.cache
+G:\Cin's Codes\编译原理\LR语法分析器\LR语法分析器\obj\Debug\LR语法分析器.exe
+G:\Cin's Codes\编译原理\LR语法分析器\LR语法分析器\obj\Debug\LR语法分析器.pdb
+C:\Users\郭子杨\Desktop\LR语法分析器\LR语法分析器\bin\Debug\LR语法分析器.exe.config
+C:\Users\郭子杨\Desktop\LR语法分析器\LR语法分析器\bin\Debug\LR语法分析器.exe
+C:\Users\郭子杨\Desktop\LR语法分析器\LR语法分析器\bin\Debug\LR语法分析器.pdb
+C:\Users\郭子杨\Desktop\LR语法分析器\LR语法分析器\obj\Debug\LR语法分析器.csprojAssemblyReference.cache
+C:\Users\郭子杨\Desktop\LR语法分析器\LR语法分析器\obj\Debug\LR语法分析器.Form1.resources
+C:\Users\郭子杨\Desktop\LR语法分析器\LR语法分析器\obj\Debug\LR语法分析器.Properties.Resources.resources
+C:\Users\郭子杨\Desktop\LR语法分析器\LR语法分析器\obj\Debug\LR语法分析器.csproj.GenerateResource.cache
+C:\Users\郭子杨\Desktop\LR语法分析器\LR语法分析器\obj\Debug\LR语法分析器.csproj.CoreCompileInputs.cache
+C:\Users\郭子杨\Desktop\LR语法分析器\LR语法分析器\obj\Debug\LR语法分析器.exe
+C:\Users\郭子杨\Desktop\LR语法分析器\LR语法分析器\obj\Debug\LR语法分析器.pdb
